@@ -16,5 +16,23 @@
         "title" : "Blizzard Series 10 Individual Blind Pin Pack",
         "content" : "Celebrate the 10th years of Blizzard pins with the Onyx 10th Anniversary Edition. The series brings back the most popular designs from all previous Blizzard series pins in exclusive chrome versions. Will you find the new Loot Mur'Goblin pin and it's evil Onyx rarity? Each pin has the option to be collected in a rare Onyx color.",
         "price" : 10.00
+    },
+    {
+        "id" : 3,
+        "title" : "World of Warcraft Horde Pillow",
+        "content" : "Introducing the World of Warcraft Alliance Pillow, where comfort meets allegiance! Featuring the proud emblem and colors of the Alliance, it's a symbol of honor and unity for every Warcraft enthusiast. Showcase your loyalty to the Alliance in both your virtual battles and well-deserved moments of repose. Bring the spirit of Azeroth home with this exclusive World of Warcraft Alliance Pillow. FOR THE ALLIANCE!",
+        "price" : 35.00
+    },
+    {
+        "id" : 4,
+        "title" : "World of Warcraft Alliance Pillowk",
+        "content" : "Introducing the World of Warcraft Horde Pillow, where strength and honor find comfort! Embrace the might of the Horde with this pillow, showcasing the emblem and colors of the fierce faction. Whether in the gaming realm or your personal space, this pillow exudes the spirit of the Horde faction. Elevate your space with the exclusive World of Warcraft Horde Pillow. FOR THE HORDE!",
+        "price" : 35.00
+    },
+    {
+        "id" : 5,
+        "title" : "World of Warcraft What Sword T-Shirt",
+        "content" : "The World of Warcraft What Sword T-Shirt is made of 100% soft-hand cotton. This T-shirt features a digitally printed design for high detail.",
+        "price" : 35.00
     }
 ]

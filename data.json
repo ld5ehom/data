@@ -3,48 +3,48 @@
         "id" : 0,
         "title" : "World of Warcraft Horde Gunnar Blue Light Glasses",
         "content" : "Enter the world of Azeroth with World of Warcraft, Horde Edition glasses. Featuring a precision engineered polymer material and reinforced metal hinge blocks, these brutal glasses will lead you to victory with the advanced lens technology to sharpen visual performance. For the Horde! Strength, Honor, and Blood! SPECS: lens width: 53 mm | nose: 20 mm | frame width: 133 mm | temple: 145 mm INCLUDED WITH PURCHASE Flat-Fold Glasses Case Microfiber Pouch Microfiber Cleaning Cloth 12-month Warranty",
-        "price" : "100.00",
+        "price" : 100.00
     },
 
     {
         "id" : 1,
         "title" : "World of Warcraft Horde Gunnar Blue Light Glasses",
         "content" : "Enter the world of Azeroth with World of Warcraft, Horde Edition glasses. Featuring a precision engineered polymer material and reinforced metal hinge blocks, these brutal glasses will lead you to victory with the advanced lens technology to sharpen visual performance. For the Horde! Strength, Honor, and Blood! SPECS: lens width: 53 mm | nose: 20 mm | frame width: 133 mm | temple: 145 mm INCLUDED WITH PURCHASE Flat-Fold Glasses Case Microfiber Pouch Microfiber Cleaning Cloth 12-month Warranty",
-        "price" : "90.00",
+        "price" : 90.00
     },
 
     {
         "id" : 2,
         "title" : "Blizzard Series 10 Individual Blind Pin Pack",
         "content" : "Celebrate the 10th years of Blizzard pins with the Onyx 10th Anniversary Edition. The series brings back the most popular designs from all previous Blizzard series pins in exclusive chrome versions. Will you find the new Loot Mur'Goblin pin and it's evil Onyx rarity? Each pin has the option to be collected in a rare Onyx color.",
-        "price" : "10.00",
+        "price" : 10.00
     },
 
     {
         "id" : 3,
         "title" : "World of Warcraft Horde Pillow",
         "content" : "Introducing the World of Warcraft Alliance Pillow, where comfort meets allegiance! Featuring the proud emblem and colors of the Alliance, it's a symbol of honor and unity for every Warcraft enthusiast. Showcase your loyalty to the Alliance in both your virtual battles and well-deserved moments of repose. Bring the spirit of Azeroth home with this exclusive World of Warcraft Alliance Pillow. FOR THE ALLIANCE!",
-        "price" : "35.00",
+        "price" : 35.00
     },
 
     {
         "id" : 4,
         "title" : "World of Warcraft Alliance Pillowk",
         "content" : "Introducing the World of Warcraft Horde Pillow, where strength and honor find comfort! Embrace the might of the Horde with this pillow, showcasing the emblem and colors of the fierce faction. Whether in the gaming realm or your personal space, this pillow exudes the spirit of the Horde faction. Elevate your space with the exclusive World of Warcraft Horde Pillow. FOR THE HORDE!",
-        "price" : "35.00",
+        "price" : 35.00
     },
 
     {
         "id" : 5,
         "title" : "World of Warcraft What Sword T-Shirt",
         "content" : "The World of Warcraft What Sword T-Shirt is made of 100% soft-hand cotton. This T-shirt features a digitally printed design for high detail.",
-        "price" : "35.00",
+        "price" : 35.00
     },
 
     {
         "id" : 6,
         "title" : " World of Warcraft Dragonflight Gaming Desk Mat ",
         "content" : " This World of Warcraft Dragonflight Gaming Desk Mat is the perfect accessory for your office. Featuring sublimated graphics and a rubber backing to prevent sliding, you don't want to miss this stylish yet functional piece for your office. ",
-        "price" : "30.00 ",
+        "price" : 30.00
     },
 ]

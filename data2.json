@@ -3,18 +3,18 @@
       "id" : 7,
       "title" : " World of Warcraft Murloc 16oz Ceramic Mug ",
       "content" : " The World of Warcraft Murloc 16 oz Mug is the perfect way to enjoy your favorite beverage. This mug is made of ceramic, holds 16oz, and is suitable for microwave and dishwasher use. ",
-      "price" : " 20.00 ",
+      "price" : 20.00
   },
   {
       "id" : 8,
       "title" : " BlizzCon 2023 Commemorative Art Pullover Hoodie ",
       "content" : " Introducing the BlizzCon 2023 Hoodie! Commemorate the ultimate Blizzard Entertainment celebration with this exclusive hoodie. Crafted for both comfort and style, it features the official BlizzCon 2023 Key Art. Whether you attended the event or simply want to be part of the magic, this hoodie is a timeless piece that unites Blizzard fans across the globe. ",
-      "price" : " 52.00 ",
+      "price" : 52.00
   },
   {
       "id" : 9,
       "title" : " World of Warcraft 18oz Stainless Steel Mug ",
       "content" : " This World of Warcraft 18 ounce stainless steel mug is the perfect way to keep drinks ice cold or piping hot. Vacuum insulation keeps beverages hot up to 8 hours and cold up to 24 hours. Includes spill-resistant lid for sipping or straws and a durable handle for easy use. ",
-      "price" : " 30.00 ",
+      "price" : 30.00
   }
 ] 

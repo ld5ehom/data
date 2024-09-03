@@ -61,7 +61,9 @@
             "discount" : "Coupon",
             "originalPrice": 110.00,
             "discountPrice": 90.00
-        },
+        }
+    ],
+    "verticalProducts": [
         {
             "id" : 6,
             "imageUrl": "https://github.com/ld5ehom/data/blob/main/item6.jpg",
@@ -110,6 +112,19 @@
             "originalPrice": 30.00,
             "discountPrice": 21.00 
         }
-    
+    ],
+    "themes": [
+        {
+            "id": 1,
+            "imageUrl": "https://github.com/ld5ehom/data/blob/main/banner1.pdf"
+        },
+        {
+            "id": 2,
+            "imageUrl": "https://github.com/ld5ehom/data/blob/main/banner3.pdf"
+        },        
+        {
+            "id": 3,
+            "imageUrl": "https://github.com/ld5ehom/data/blob/main/banner3.pdf"
+        }    
     ]
 }

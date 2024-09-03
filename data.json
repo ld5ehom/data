@@ -1,75 +1,115 @@
-[
-    {
-        "id" : 0,
-        "title" : "UCLA Bruins Oversized Graphic Tee",
-        "content" : "SKU: 637902-BLACK-X-LARGE-",
-        "price" : 65.00
-    },
-    {
-        "id" : 1,
-        "title" : "UCLA Nike Zoom Pegasus 41 Shoe",
-        "content" : "Responsive cushioning in the Pegasus provides an energized ride for everyday road running. Experience lighter-weight energy return with dual Air Zoom units and a ReactX foam midsole.",
-        "price" : 150.00
-    },
-    {
-        "id" : 2,
-        "title" : "UCLA Chenille B Patch Hooded Sweatshirt",
-        "content" : "80% Cotton / 20% Polyester ",
-        "price" : 76.00
-    },
-    {
-        "id" : 3,
-        "title" : "UCLA Big Ten Autograph Basketball",
-        "content" : "Composite Material ",
-        "price" : 36.00
-    },
-    {
-        "id" : 4,
-        "title" : "UCLA Julia Gash Mug",
-        "content" : "This whimsical mug featuring a design by Julia Gash features the spirit and terrain of UCLA.",
-        "price" : 18.00
-    },
-    {
-        "id" : 5,
-        "title" : "UCLA Bruins Power Duffel",
-        "content" : "By Nike",
-        "price" : 90.00
-    },
-    {
-        "id" : 6,
-        "title" : "UCLA Block Over Bruins Swoosh Flex Cap",
-        "content" : " Six-panel Dri-FIT fabric construction with Dri-FIT sweatband. 3D embroidery on center front, team mark at center back, and Swoosh design trademark on wearer's left side. ",
-        "price" : 28.00
-    },
-    {
-        "id" : 7,
-        "title" : " UCLA Two-Tone Script Pet Scarf",
-        "content" : " By All Star Dogs ",
-        "price" : 25.00
-    },
-    {
-        "id" : 8,
-        "title" : "UCLA Charlie Bear",
-        "content" : " Cute, and cuddly, our plush mascot is a BRUIN lover, not a fighter. ",
-        "price" : 27.00
-    },
-    {
-        "id" : 9,
-        "title" : "UCLA Script Puff Pillow",
-        "content" : "100% Polyester",
-        "price" : 27.00
-    },
-    {
-        "id" : 10,
-        "title" : "UCLA Script Utensil Set",
-        "content" : "Comes with fork. spoon, knife and travel case",
-        "price" :  8.00 
-    },
-    {
-        "id" : 11,
-        "title" : "UCLA Walking Bear License Plate Frame",
-        "content" : "By Strand Art Company",
-        "price" :  21.00 
-    }
+{
+    "banners": [
+        {
+            "id": 1,
+            "imageUrl": "https://github.com/ld5ehom/data/blob/main/banner1.pdf"
+        },
+        {
+            "id": 2,
+            "imageUrl": "https://github.com/ld5ehom/data/blob/main/banner3.pdf"
+        },        
+        {
+            "id": 3,
+            "imageUrl": "https://github.com/ld5ehom/data/blob/main/banner3.pdf"
+        }
+    ],
+    "horizontalProducts": [
+        {
+            "id" : 0,
+            "imageUrl": "https://github.com/ld5ehom/data/blob/main/item0.jpg",
+            "title": "UCLA Bruins Oversized Graphic Tee",
+            "discount": "Coupon",
+            "originalPrice": 80.00,
+            "discountPrice": 65.00
+        },
+        {
+            "id" : 1,
+            "imageUrl": "https://github.com/ld5ehom/data/blob/main/item1.jpg",
+            "title" : "UCLA Nike Zoom Pegasus 41 Shoe",
+            "discount" : "Coupon",
+            "originalPrice": 180.00,
+            "discountPrice": 150.00
+        },
+        {
+            "id" : 2,
+            "imageUrl": "https://github.com/ld5ehom/data/blob/main/item2.jpg",
+            "title": "UCLA Chenille B Patch Hooded Sweatshirt",
+            "discount": "Coupon",
+            "originalPrice": 90.00,
+            "discountPrice": 76.00
+        },
+        {
+            "id" : 3,
+            "imageUrl": "https://github.com/ld5ehom/data/blob/main/item3.jpg",
+            "title" : "UCLA Big Ten Autograph Basketball",
+            "discount" : "Coupon",
+            "originalPrice": 60.00,
+            "discountPrice": 36.00
+        },
+        {
+            "id" : 4,
+            "imageUrl": "https://github.com/ld5ehom/data/blob/main/item4.jpg",
+            "title" : "UCLA Julia Gash Mug",
+            "discount" : "Coupon",
+            "originalPrice": 30.00,
+            "discountPrice": 18.00
+        },
+        {
+            "id" : 5,
+            "imageUrl": "https://github.com/ld5ehom/data/blob/main/item5.jpg",
+            "title" : "UCLA Bruins Power Duffel",
+            "discount" : "Coupon",
+            "originalPrice": 110.00,
+            "discountPrice": 90.00
+        },
+        {
+            "id" : 6,
+            "imageUrl": "https://github.com/ld5ehom/data/blob/main/item6.jpg",
+            "title" : "UCLA Block Over Bruins Swoosh Flex Cap",
+            "discount" : "Coupon",
+            "originalPrice": 40.00,
+            "discountPrice": 28.00
+        },
+        {
+            "id" : 7,
+            "imageUrl": "https://github.com/ld5ehom/data/blob/main/item7.jpg",
+            "title" : " UCLA Two-Tone Script Pet Scarf",
+            "discount" : "Coupon",
+            "originalPrice": 30.00,
+            "discountPrice": 25.00
+        },
+        {
+            "id" : 8,
+            "imageUrl": "https://github.com/ld5ehom/data/blob/main/item8.jpg",
+            "title" : "UCLA Charlie Bear",
+            "discount" : "Coupon",
+            "originalPrice": 50.00,
+            "discountPrice": 27.00
+        },
+        {
+            "id" : 9,
+            "imageUrl": "https://github.com/ld5ehom/data/blob/main/item9.jpg",
+            "title": "UCLA Script Puff Pillow",
+            "discount": "Coupon",
+            "originalPrice": 40.00,
+            "discountPrice": 27.00
+        },
+        {
+            "id" : 10,
+            "imageUrl": "https://github.com/ld5ehom/data/blob/main/item10.jpg",
+            "title" : "UCLA Script Utensil Set",
+            "discount" : "Coupon",
+            "originalPrice": 10.00,
+            "discountPrice": 8.00 
+        },
+        {
+            "id" : 11,
+            "imageUrl": "https://github.com/ld5ehom/data/blob/main/item11.jpg",
+            "title" : "UCLA Walking Bear License Plate Frame",
+            "discount" : "Coupon",
+            "originalPrice": 30.00,
+            "discountPrice": 21.00 
+        }
     
-]
+    ]
+}

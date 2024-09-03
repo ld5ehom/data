@@ -2,21 +2,21 @@
     "banners": [
         {
             "id": 1,
-            "imageUrl": "https://github.com/ld5ehom/data/blob/main/banner1.pdf"
+            "imageUrl": "https://raw.githubusercontent.com/ld5ehom/data/main/banner1.jpg"
         },
         {
             "id": 2,
-            "imageUrl": "https://github.com/ld5ehom/data/blob/main/banner3.pdf"
-        },        
+            "imageUrl": "https://raw.githubusercontent.com/ld5ehom/data/main/banner2.jpg"
+        },
         {
             "id": 3,
-            "imageUrl": "https://github.com/ld5ehom/data/blob/main/banner3.pdf"
+            "imageUrl": "https://raw.githubusercontent.com/ld5ehom/data/main/banner3.jpg"
         }
     ],
     "horizontalProducts": [
         {
-            "id" : 0,
-            "imageUrl": "https://github.com/ld5ehom/data/blob/main/item0.jpg",
+            "id": 0,
+            "imageUrl": "https://raw.githubusercontent.com/ld5ehom/data/main/item0.jpg",
             "title": "UCLA Bruins Oversized Graphic Tee",
             "discount": "Coupon",
             "originalPrice": 80.00,
@@ -24,7 +24,7 @@
         },
         {
             "id" : 1,
-            "imageUrl": "https://github.com/ld5ehom/data/blob/main/item1.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/ld5ehom/data/main/item1.jpg",
             "title" : "UCLA Nike Zoom Pegasus 41 Shoe",
             "discount" : "Coupon",
             "originalPrice": 180.00,
@@ -32,7 +32,7 @@
         },
         {
             "id" : 2,
-            "imageUrl": "https://github.com/ld5ehom/data/blob/main/item2.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/ld5ehom/data/main/item2.jpg",
             "title": "UCLA Chenille B Patch Hooded Sweatshirt",
             "discount": "Coupon",
             "originalPrice": 90.00,
@@ -40,7 +40,7 @@
         },
         {
             "id" : 3,
-            "imageUrl": "https://github.com/ld5ehom/data/blob/main/item3.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/ld5ehom/data/main/item3.jpg",
             "title" : "UCLA Big Ten Autograph Basketball",
             "discount" : "Coupon",
             "originalPrice": 60.00,
@@ -48,7 +48,7 @@
         },
         {
             "id" : 4,
-            "imageUrl": "https://github.com/ld5ehom/data/blob/main/item4.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/ld5ehom/data/main/item4.jpg",
             "title" : "UCLA Julia Gash Mug",
             "discount" : "Coupon",
             "originalPrice": 30.00,
@@ -56,7 +56,7 @@
         },
         {
             "id" : 5,
-            "imageUrl": "https://github.com/ld5ehom/data/blob/main/item5.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/ld5ehom/data/main/item5.jpg",
             "title" : "UCLA Bruins Power Duffel",
             "discount" : "Coupon",
             "originalPrice": 110.00,
@@ -65,16 +65,16 @@
     ],
     "verticalProducts": [
         {
-            "id" : 6,
-            "imageUrl": "https://github.com/ld5ehom/data/blob/main/item6.jpg",
-            "title" : "UCLA Block Over Bruins Swoosh Flex Cap",
-            "discount" : "Coupon",
+            "id": 6,
+            "imageUrl": "https://raw.githubusercontent.com/ld5ehom/data/main/item6.jpg",
+            "title": "UCLA Block Over Bruins Swoosh Flex Cap",
+            "discount": "Coupon",
             "originalPrice": 40.00,
             "discountPrice": 28.00
         },
         {
             "id" : 7,
-            "imageUrl": "https://github.com/ld5ehom/data/blob/main/item7.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/ld5ehom/data/main/item7.jpg",
             "title" : " UCLA Two-Tone Script Pet Scarf",
             "discount" : "Coupon",
             "originalPrice": 30.00,
@@ -82,7 +82,7 @@
         },
         {
             "id" : 8,
-            "imageUrl": "https://github.com/ld5ehom/data/blob/main/item8.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/ld5ehom/data/main/item8.jpg",
             "title" : "UCLA Charlie Bear",
             "discount" : "Coupon",
             "originalPrice": 50.00,
@@ -90,7 +90,7 @@
         },
         {
             "id" : 9,
-            "imageUrl": "https://github.com/ld5ehom/data/blob/main/item9.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/ld5ehom/data/main/item9.jpg",
             "title": "UCLA Script Puff Pillow",
             "discount": "Coupon",
             "originalPrice": 40.00,
@@ -98,7 +98,7 @@
         },
         {
             "id" : 10,
-            "imageUrl": "https://github.com/ld5ehom/data/blob/main/item10.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/ld5ehom/data/main/item10.jpg",
             "title" : "UCLA Script Utensil Set",
             "discount" : "Coupon",
             "originalPrice": 10.00,
@@ -106,7 +106,7 @@
         },
         {
             "id" : 11,
-            "imageUrl": "https://github.com/ld5ehom/data/blob/main/item11.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/ld5ehom/data/main/item11.jpg",
             "title" : "UCLA Walking Bear License Plate Frame",
             "discount" : "Coupon",
             "originalPrice": 30.00,
@@ -116,15 +116,15 @@
     "themes": [
         {
             "id": 1,
-            "imageUrl": "https://github.com/ld5ehom/data/blob/main/banner1.pdf"
+            "imageUrl": "https://raw.githubusercontent.com/ld5ehom/data/main/banner1.jpg"
         },
         {
             "id": 2,
-            "imageUrl": "https://github.com/ld5ehom/data/blob/main/banner3.pdf"
-        },        
+            "imageUrl": "https://raw.githubusercontent.com/ld5ehom/data/main/banner2.jpg"
+        },
         {
             "id": 3,
-            "imageUrl": "https://github.com/ld5ehom/data/blob/main/banner3.pdf"
-        }    
+            "imageUrl": "https://raw.githubusercontent.com/ld5ehom/data/main/banner3.jpg"
+        }
     ]
 }

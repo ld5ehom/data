@@ -2,15 +2,15 @@
     "banners": [
         {
             "id": 1,
-            "imageUrl": "https://raw.githubusercontent.com/ld5ehom/data/main/banner1.pdf"
+            "imageUrl": "https://raw.githubusercontent.com/ld5ehom/data/main/banner1.png"
         },
         {
             "id": 2,
-            "imageUrl": "https://raw.githubusercontent.com/ld5ehom/data/main/banner2.pdf"
+            "imageUrl": "https://raw.githubusercontent.com/ld5ehom/data/main/banner2.png"
         },
         {
             "id": 3,
-            "imageUrl": "https://raw.githubusercontent.com/ld5ehom/data/main/banner3.pdf"
+            "imageUrl": "https://raw.githubusercontent.com/ld5ehom/data/main/banner3.png"
         }
     ],
     "horizontalProducts": [
@@ -116,15 +116,15 @@
     "themes": [
         {
             "id": 1,
-            "imageUrl": "https://raw.githubusercontent.com/ld5ehom/data/main/banner1.pdf"
+            "imageUrl": "https://raw.githubusercontent.com/ld5ehom/data/main/banner1.png"
         },
         {
             "id": 2,
-            "imageUrl": "https://raw.githubusercontent.com/ld5ehom/data/main/banner2.pdf"
+            "imageUrl": "https://raw.githubusercontent.com/ld5ehom/data/main/banner2.png"
         },
         {
             "id": 3,
-            "imageUrl": "https://raw.githubusercontent.com/ld5ehom/data/main/banner3.pdf"
+            "imageUrl": "https://raw.githubusercontent.com/ld5ehom/data/main/banner3.png"
         }
     ]
 }

@@ -34,5 +34,42 @@
         "title" : "UCLA Bruins Power Duffel",
         "content" : "By Nike",
         "price" : 90.00
+    },
+    {
+        "id" : 6,
+        "title" : "UCLA Block Over Bruins Swoosh Flex Cap",
+        "content" : " Six-panel Dri-FIT fabric construction with Dri-FIT sweatband. 3D embroidery on center front, team mark at center back, and Swoosh design trademark on wearer's left side. ",
+        "price" : 28.00
+    },
+    {
+        "id" : 7,
+        "title" : " UCLA Two-Tone Script Pet Scarf",
+        "content" : " By All Star Dogs ",
+        "price" : 25.00
+    },
+    {
+        "id" : 8,
+        "title" : "UCLA Charlie Bear",
+        "content" : " Cute, and cuddly, our plush mascot is a BRUIN lover, not a fighter. ",
+        "price" : 27.00
+    },
+    {
+        "id" : 9,
+        "title" : "UCLA Script Puff Pillow",
+        "content" : "100% Polyester",
+        "price" : 27.00
+    },
+    {
+        "id" : 10,
+        "title" : "UCLA Script Utensil Set",
+        "content" : "Comes with fork. spoon, knife and travel case",
+        "price" :  8.00 
+    },
+    {
+        "id" : 11,
+        "title" : "UCLA Walking Bear License Plate Frame",
+        "content" : "By Strand Art Company",
+        "price" :  21.00 
     }
+    
 ]

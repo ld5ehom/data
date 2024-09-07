@@ -7,6 +7,7 @@
             "discount": "Coupon",
             "originalPrice": 80.00,
             "discountPrice": 65.00,
+            "discountRate": 20,
             "rate": 20,
             "detailImages": [
                 "https://raw.githubusercontent.com/ld5ehom/data/main/item0-1.jpg",
@@ -21,6 +22,7 @@
             "discount": "Coupon",
             "originalPrice": 18000.00,
             "discountPrice": 15000.00,
+            "discountRate": 20,
             "rate": 20,
             "detailImages": [
                 "https://raw.githubusercontent.com/ld5ehom/data/main/item1-1.jpg",

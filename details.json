@@ -15,10 +15,10 @@
             ]
         },
         {
-            "id" : 1,
+            "id": 1,
             "imageUrl": "https://raw.githubusercontent.com/ld5ehom/data/main/item1.jpg",
-            "title" : "UCLA Nike Zoom Pegasus 41 Shoe",
-            "discount" : "Coupon",
+            "title": "UCLA Nike Zoom Pegasus 41 Shoe",
+            "discount": "Coupon",
             "originalPrice": 18000.00,
             "discountPrice": 15000.00,
             "rate": 20,

@@ -12,9 +12,9 @@
     "rate": 20
   },
   "option": {
-    "type": "Size",
-    "name": "Large",
-    "image": "https://raw.githubusercontent.com/ld5ehom/data/main/option1.jpg"
+    "type": "Color",
+    "name": "UCLA Blue",
+    "image": "https://raw.githubusercontent.com/ld5ehom/data/main/UCLABlue.png"
   },
   "detailImages": [
     "https://raw.githubusercontent.com/ld5ehom/data/main/item0-1.jpg",
